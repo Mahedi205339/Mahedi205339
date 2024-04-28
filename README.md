@@ -93,11 +93,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedi205339&show_icons=true&locale=en&layout=compact" alt="mahedi205339" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedi205339&show_icons=true&locale=en" alt="mahedi205339" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi205339&" alt="mahedi205339" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedi205339&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahedi205339" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedi205339&show_icons=true&locale=en&theme=dark" alt="mahedi205339" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi205339&theme=dark" alt="mahedi205339" /></p>
 
 
 
