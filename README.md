@@ -4,9 +4,9 @@
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi205339&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi205339" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahedi205339&label=Profile%20views&color=0e75b6&style=flat" alt="Mahedi205339" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahedi205339&theme=onedark" alt="mahedi205339" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahedi205339&theme=onedark" alt="Mahedi205339" /></a> </p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -93,9 +93,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedi205339&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahedi205339" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedi205339&show_icons=true&locale=en&theme=dark" alt="mahedi205339" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi205339&theme=dark" alt="mahedi205339" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahedi205339&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mahedi205339" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahedi205339&show_icons=true&locale=en&theme=dark" alt="Mahedi205339" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahedi205339&theme=dark" alt="Mahedi205339" /></p>
 
 
 
