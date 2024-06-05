@@ -92,10 +92,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+## 📊 Current Stats
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Mahedi205339&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=B2B1CF&sideLabels=98D2EB&currStreakNum=98D2EB&ring=98D2EB&currStreakLabel=98D2EB&sideNums=98D2EB" />
+</p>
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahedi205339&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mahedi205339" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahedi205339&show_icons=true&locale=en&theme=dark" alt="Mahedi205339" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahedi205339&theme=dark" alt="Mahedi205339" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahedi205339&theme=dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi205339&theme=dark)
+  
+</div>
 
 
 
