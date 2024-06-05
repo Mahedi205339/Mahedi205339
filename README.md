@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahedi205339&label=Profile%20views&color=0e75b6&style=flat" alt="Mahedi205339" /> </p>
 
 <h2 align="center">🏆 Languages-Frameworks-Tools 🏆</h2>
-<hr/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahedi205339&theme=onedark" alt="Mahedi205339" /></a> </p>
 
@@ -28,7 +28,7 @@
 - ⚡ Fun fact **I think I am funny😜**
 
 
-### Connect with me:
+<h2 align="center">📲 Connect With Me 📲</h2>
 
 <p align="justify">
    <a href="https://linkedin.com/in/mahedi205339" target="_blank">
@@ -47,7 +47,7 @@
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<hr/>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,postman,vercel" />
@@ -56,7 +56,7 @@
 
 
 <h2 align="center"> ⚡ Stats ⚡ </h2>
-<hr/>
+
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Mahedi205339&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=B2B1CF&sideLabels=98D2EB&currStreakNum=98D2EB&ring=98D2EB&currStreakLabel=98D2EB&sideNums=98D2EB" />
