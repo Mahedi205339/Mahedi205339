@@ -1,5 +1,7 @@
 <img width="1200" src ="https://github.com/Mahedi205339/Mahedi205339/blob/main/ezgif.com-video-to-gif.gif?raw=true" alt="banner">
-<h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahedi+Hasan!;" />
+</h1>
 <h3 align="center">A passionate junior web application developer from Bangladesh</h3>
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
