@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahedi205339&label=Profile%20views&color=0e75b6&style=flat" alt="Mahedi205339" /> </p>
 
-<h2 align="center">🏆 Languages-Frameworks-Tools 🏆</h2>
+<h2 align="center">🏆 Achivement and Troffies 🏆</h2>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahedi205339&theme=onedark" alt="Mahedi205339" /></a> </p>
