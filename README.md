@@ -44,6 +44,12 @@
 
 ### Languages and Tools:
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,c++" /><br>
+</div>
+
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
