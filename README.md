@@ -62,6 +62,8 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Mahedi205339&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=B2B1CF&sideLabels=98D2EB&currStreakNum=98D2EB&ring=98D2EB&currStreakLabel=98D2EB&sideNums=98D2EB" />
 </p>
 <div align="center">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedi205339&show_icons=true&locale=en&layout=compact" alt="mahedi205339" /></p>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark)
 
