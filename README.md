@@ -1,4 +1,4 @@
-<img width="1200" src ="https://github.com/Mahedi205339/Mahedi205339/blob/main/ezgif.com-video-to-gif.gif?raw=true" alt="banner">
+ <img width="1200" src ="https://github.com/Mahedi205339/Mahedi205339/blob/main/ezgif.com-video-to-gif.gif?raw=true" alt="banner">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahedi+Hasan!;" />
 </h1>
@@ -66,7 +66,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark)
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs?username=Mahedi205339&show_icons=true&locale=en&layout=compact&theme=dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi205339&theme=dark)
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=Mahedi205339&theme=dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi205339&theme=dark)
   
 </div>
 
