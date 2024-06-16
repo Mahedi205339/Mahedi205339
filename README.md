@@ -68,7 +68,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahedi205339&theme=dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi205339&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark&theme=dark)        
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark)        
 </div>
 
 
