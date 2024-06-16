@@ -63,10 +63,11 @@
 </p>
 <div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedi205339&show_icons=true&locale=en&layout=compact" alt="mahedi205339" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedi205339&show_icons=true&locale=en&layout=compact" alt="Mahedi205339&theme=dark" /></p>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahedi205339&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahedi205339&theme=dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi205339&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahedi205339&theme=dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahedi205339&theme=dark)
   
 </div>
