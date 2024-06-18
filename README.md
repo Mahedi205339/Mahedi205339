@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mahedi205339@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SguwYaPdqtI2gVVls94-kWaA7205S01d/view?usp=drive_link](https://drive.google.com/file/d/1SguwYaPdqtI2gVVls94-kWaA7205S01d/view?usp=drive_link)
+- 📄 Know about me (Portfolio) [https://drive.google.com/file/d/1SguwYaPdqtI2gVVls94-kWaA7205S01d/view?usp=drive_link](https://mahedi-next-portfolio-git-main-mahedis-projects.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny😜**
 
