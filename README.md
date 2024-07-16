@@ -26,6 +26,7 @@
 - 📄 Know about me  [Portfolio](https://mahedi-next-portfolio-git-main-mahedis-projects.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny😜**
+- be
 
 
 <h2 align="center">📲 Connect With Me 📲</h2>
