@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently Exploring **next.js ,Redux , Typescript**
 
-- 👨‍💻 All of my projects are available at [Resume](https://drive.google.com/file/d/1SguwYaPdqtI2gVVls94-kWaA7205S01d/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [Resume](https://drive.google.com/file/d/11ld6lfcZqkABcvhM4FuctKFTLt3brr4I/view?usp=drive_link)
 
 - 📫 How to reach me **mahedi205339@gmail.com**
 
